@@ -74,14 +74,8 @@ Através da gamificação do exercício físico, o jogo transforma a atividade d
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ciclistinha.git
+git clone https://github.com/Jean424-tech/Projeto-jogos-digitais-jean.git
 
-# Navegue até o diretório
-cd ciclistinha
-
-# Execute o projeto
-./gradlew desktop:run
-```
 
 ### 🖥️ Execução no IntelliJ IDEA
 
