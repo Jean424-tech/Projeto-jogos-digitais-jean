@@ -121,32 +121,26 @@ cd ciclistinha
 ## 🗂️ Estrutura do Projeto
 
 ```
-ciclistinha/
-├── core/
-│   ├── src/
-│   │   └── com/ciclistinha/
-│   │       ├── screens/
-│   │       │   ├── MenuScreen.java
-│   │       │   ├── CharacterSelectScreen.java
-│   │       │   ├── GameScreen.java
-│   │       │   └── GameOverScreen.java
-│   │       ├── entities/
-│   │       │   ├── Player.java
-│   │       │   └── Cyclist.java
-│   │       ├── utils/
-│   │       │   ├── IoTConnection.java
-│   │       │   ├── AudioManager.java
-│   │       │   └── GamePreferences.java
-│   │       └── CiclistinhaGame.java
-├── desktop/
-│   └── src/
-│       └── DesktopLauncher.java
-├── android/
-├── assets/
-│   ├── images/
-│   ├── sounds/
-│   └── ui/
-└── build.gradle
+src/
+└── main/
+    └── java/
+        └── br.mackenzie/
+            ├── AnimationManager.java
+            ├── AssetManager.java
+            ├── AudioManager.java
+            ├── CharacterSelectionScreen.java
+            ├── GameMain.java
+            ├── GameOverScreen.java
+            ├── HowToPlayScreen.java
+            ├── LevelManager.java
+            ├── Main.java
+            ├── MenuScreen.java
+            ├── PhysicsEngine.java
+            ├── Player.java
+            ├── PlayScreen.java
+            ├── PreferencesScreen.java
+            └── Terrain.java
+
 ```
 ## 📞 Contato
 
