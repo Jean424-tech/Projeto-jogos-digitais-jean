@@ -5,10 +5,11 @@
 
 <div align="center">
 
-[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-[https://img.shields.io/badge/libGDX-FF0000?style=for-the-badge](https://img.shields.io/badge/libGDX-FF0000?style=for-the-badge)
-[https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-[https://img.shields.io/badge/IoT-00B0F0?style=for-the-badge&logo=arduino&logoColor=white](https://img.shields.io/badge/IoT-00B0F0?style=for-the-badge&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![libGDX](https://img.shields.io/badge/libGDX-FF0000?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B0F0?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 </div>
 
@@ -100,7 +101,7 @@ cd ciclistinha
 
 ### Controles
 
-* **Espaço:** Acelerar/Pedalar
+* **Espaço:** Acelerar
 
 ### Personagens e Metas
 
@@ -149,25 +150,11 @@ ciclistinha/
 │   └── ui/
 └── build.gradle
 ```
-
----
-
-## 🔌 Integração IoT
-
-A classe **IoTConnection** é responsável por:
-
-* Estabelecer comunicação com sensores de pedalada
-* Converter dados físicos em inputs do jogo
-* Ajustar a dificuldade baseada no desempenho real
-* Fornecer feedback visual do esforço físico
-
----
-
 ## 📞 Contato
 
 **Desenvolvedor:** Jean Alex da Silva
 **RA:** 10426728
-**Instituição de Ensino:** [Nome da Instituição]
+**Instituição de Ensino:** Universidade Presbiteriana Mackenzie 
 
 ---
 
