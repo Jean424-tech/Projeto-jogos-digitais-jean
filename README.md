@@ -8,8 +8,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![libGDX](https://img.shields.io/badge/libGDX-FF0000?style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00B0F0?style=for-the-badge&logo=arduino&logoColor=white)
-
 
 </div>
 
