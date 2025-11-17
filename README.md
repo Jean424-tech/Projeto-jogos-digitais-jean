@@ -15,7 +15,7 @@
 
 ## 📋 Descrição do Projeto
 
-Projeto de desenvolvimento de um jogo sério voltado para o processo de reabilitação física, utilizando a biblioteca **libGDX** para a implementação prática. O jogo é integrado a um dispositivo **IoT** conectado a uma bicicleta ergométrica estática que coleta dados de pedaladas em tempo real.
+Projeto de desenvolvimento de um jogo sério voltado para o processo de reabilitação física, utilizando a biblioteca **libGDX** para a implementação prática.
 
 Através da gamificação do exercício físico, o jogo transforma a atividade de pedalar em uma experiência interativa e motivadora, usando a velocidade e a consistência das pedaladas como métricas para avaliação do desempenho do paciente/jogador.
 
@@ -41,7 +41,6 @@ Através da gamificação do exercício físico, o jogo transforma a atividade d
 
 ### 🔄 Mecânicas de Reabilitação
 
-* Recebimento e processamento dos dados de pedaladas em tempo real via dispositivo IoT
 * Mecânicas de jogo que respondem à velocidade e constância do exercício
 * Feedback visual claro e motivacional do progresso
 * Sistema de pontuação e desafios progressivos
@@ -58,8 +57,6 @@ Através da gamificação do exercício físico, o jogo transforma a atividade d
 
 * **libGDX** – Framework Java para jogos multiplataforma
 * **Java** – Linguagem principal
-* **Dispositivo IoT** – Sensor de pedaladas
-* **Comunicação IoT** – Para integrar hardware e software
 * **Gradle** – Gerenciamento de dependências
 * **IntelliJ IDEA** – IDE do projeto
 
@@ -91,7 +88,6 @@ cd ciclistinha
 1. Abra o projeto no IntelliJ IDEA
 2. Configure o SDK do Java
 3. Execute a classe **DesktopLauncher** no módulo *desktop*
-4. Para testes sem IoT, use a tecla **ESPAÇO** para simular pedaladas
 
 ---
 
